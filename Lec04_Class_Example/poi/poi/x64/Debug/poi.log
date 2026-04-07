@@ -1,0 +1,4 @@
+﻿  poi.c
+C:\KHS\data-structure-lab\poi\poi\poi.c(5,34): warning C4013: 'add_tmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\KHS\data-structure-lab\poi\poi\poi.c(8,28): warning C4013: 'add_array'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  poi.vcxproj -> C:\KHS\data-structure-lab\poi\x64\Debug\poi.exe
