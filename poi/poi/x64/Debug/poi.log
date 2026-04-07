@@ -1,4 +1,10 @@
-﻿  poi.c
-C:\KHS\data-structure-lab\poi\poi\poi.c(5,34): warning C4013: 'add_tmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\KHS\data-structure-lab\poi\poi\poi.c(8,28): warning C4013: 'add_array'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  poi.vcxproj -> C:\KHS\data-structure-lab\poi\x64\Debug\poi.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(poi.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Lec9.c
+C:\KHS\data-structure-lab\poi\poi\Lec9.c(10,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\KHS\data-structure-lab\poi\poi\Lec9.c(10,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\KHS\data-structure-lab\poi\poi\Lec9.c(10,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\KHS\data-structure-lab\poi\poi\Lec9.c(10,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\KHS\data-structure-lab\poi\poi\Lec9.c(5,42): warning C4101: 'string2' :참조되지 않은 지역 변수입니다.
+C:\KHS\data-structure-lab\poi\poi\Lec9.c(4,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\KHS\data-structure-lab\poi\poi\Lec9.c(7,8): warning C4101: 'ptr2' :참조되지 않은 지역 변수입니다.
+  poi.vcxproj -> C:\KHS\data-structure-lab\poi\x64\Debug\lec5.exe
